@@ -8,7 +8,7 @@
 
 ---
 
-### Bio
+## Bio
 
 Data Scientist and Master in Economics with over four years of experience leading strategic machine learning and market intelligence projects. I specialize in bridging the gap between advanced **Econometrics** and scalable **Machine Learning** to unlock business value through uncertainty quantification and causal discovery.
 
@@ -40,23 +40,15 @@ My background allows me to translate complex business challenges into actionable
 
 ### [Marketing Science: Bayesian MMM](https://jf-andrade.github.io/projects/mmm-ecommerce.html)
 
-A decision-support system for eCommerce ROI optimization across 18 territories.
+Decision-support system for budget optimization. Estimates channel ROI with uncertainty quantification across 18 territories to maximize advertising efficiency.
 
-- **Impact:** Uncertainty quantification with 94% HDI bands for budget reallocation.
-- **Stack:** `PyMC-Marketing`, `MLflow`, `Streamlit`.
-- **Core:** Geometric Adstock & Logistic Saturation modeling.
+- **Outcome:** Statistically rigorous budget reallocation recommendations based on saturation and carryover effects.
 
-[![View Code](https://img.shields.io/badge/Source_Code-00C853?style=flat-square&logo=github)](https://github.com/JF-Andrade/MMM-Figshare-eCommerce)
+### [Personalization: Recommender Systems](https://jf-andrade.github.io/projects/two-tower-recommendation.html)
 
-### [Personalization: Two-Stage Recommender](https://jf-andrade.github.io/projects/two-tower-recommendation.html)
+Optimizing customer experience through purchase intent prediction. Built to handle fashion retail dynamics, including seasonal catalog rotations and cold-start robustness.
 
-Large-scale (144B pairs) system for purchase intent prediction.
-
-- **Impact:** +389% lift over naive baselines using a Retrieval + Ranking funnel.
-- **Stack:** `TFRS`, `CatBoost`, `ResNet50`.
-- **Core:** Multimodal fusion (Images + Metadata) for cold-start robustness.
-
-[![View Code](https://img.shields.io/badge/Source_Code-00C853?style=flat-square&logo=github)](https://github.com/JF-Andrade/two-tower_recommendation)
+- **Outcome:** Significant lift in purchase conversion by delivering high-precision fashion recommendations at scale.
 
 ---
 
@@ -72,11 +64,11 @@ _Andrade, J. F., et al. (2026). Investment share and economic growth in Latin Am
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JF-Andrade&show_icons=true&theme=default&hide_border=true&hide_title=true&hide_rank=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JF-Andrade&show_icons=true&theme=default&hide_border=true&rank_icon=github)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jordaofernandes/">Connect on LinkedIn</a> • 
-  <a href="https://jf-andrade.github.io/">Visit Full Portfolio</a>
+  <a href="https://www.linkedin.com/in/jordaofernandes/">LinkedIn</a> • 
+  <a href="https://jf-andrade.github.io/">Full Portfolio</a>
 </p>
 
 </div>
