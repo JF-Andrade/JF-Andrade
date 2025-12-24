@@ -1,5 +1,3 @@
-<img align="right" src="https://jf-andrade.github.io/assets/img/perfil_github.webp" width="160" style="border-radius: 50%; margin-left: 20px;" alt="Profile Picture">
-
 # Jordão Fernandes de Andrade
 
 **M.Sc. Economics | Machine Learning & Causal Inference**
@@ -15,8 +13,6 @@
 Data Scientist and Master in Economics with over four years of experience leading strategic machine learning and market intelligence projects. I specialize in bridging the gap between advanced **Econometrics** and scalable **Machine Learning** to unlock business value through uncertainty quantification and causal discovery.
 
 My background allows me to translate complex business challenges into actionable insights, contributing to measurable growth and data-driven decision-making at the executive level.
-
-<br clear="right"/>
 
 ## Technical Expertise
 
