@@ -2,30 +2,27 @@
 
 **M.Sc. Economics | Machine Learning & Causal Inference**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordaofernandes/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://jf-andrade.github.io/)
-[![Email](https://img.shields.io/badge/-jordaoandrade@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jordaoandrade@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jordaofernandes/) • [Portfolio](https://jf-andrade.github.io/) • [Email](mailto:jordaoandrade@gmail.com)
 
 ---
 
 ## Bio
 
-Data Scientist and Master in Economics with over four years of experience leading strategic machine learning and market intelligence projects. I specialize in bridging the gap between advanced **Econometrics** and scalable **Machine Learning** to unlock business value through uncertainty quantification and causal discovery.
+> Data Scientist and Master in Economics with over four years of experience leading strategic machine learning and market intelligence projects. I specialize in bridging the gap between advanced **Econometrics** and scalable **Machine Learning** to unlock business value through uncertainty quantification and causal discovery.
 
-My background allows me to translate complex business challenges into actionable insights, contributing to measurable growth and data-driven decision-making at the executive level.
+<br>
 
 ## Technical Expertise
 
-### Analytical & Econometric Core
+### Core Differentiators
 
 ![Causal Inference](https://img.shields.io/badge/Causal_Inference-4CAF50?style=flat-square)
 ![Bayesian Modeling](https://img.shields.io/badge/Bayesian_Modeling-9C27B0?style=flat-square)
 ![Econometrics](https://img.shields.io/badge/Econometrics-607D8B?style=flat-square)
-![Time Series](https://img.shields.io/badge/Time_Series-00BCD4?style=flat-square)
-![PyMC](https://img.shields.io/badge/PyMC-5C2D91?style=flat-square)
-![ArviZ](https://img.shields.io/badge/ArviZ-1E88E5?style=flat-square)
+![PyMC](https://img.shields.io/badge/PyMC-5C2D91?style=flat-square&logo=pymc&logoColor=white)
+![ArviZ](https://img.shields.io/badge/ArviZ-1E88E5?style=flat-square&logo=arviz&logoColor=white)
 
-### Machine Learning & Engineering
+### Engineering Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -34,21 +31,32 @@ My background allows me to translate complex business challenges into actionable
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
+**Key Competencies:** Causal Discovery (`DID`, `RDD`, `Synthetic Control`), A/B Testing, Time Series Forecasting, Hierarchical Modeling.
+**Tooling:** `SQL`, `Pandas`, `NumPy`, `Scikit-learn`, `CatBoost`, `Optuna`, `Streamlit`, `Git`, `Linux`.
+
 ---
 
 ## Strategic Projects
 
-### [Marketing Science: Bayesian MMM](https://jf-andrade.github.io/projects/mmm-ecommerce.html)
+### Marketing Science: Bayesian MMM
 
-Decision-support system for budget optimization. Estimates channel ROI with uncertainty quantification across 18 territories to maximize advertising efficiency.
+**Impact:** `Uncertainty Quantification (94% HDI)` for multi-region budget optimization.
 
-- **Outcome:** Statistically rigorous budget reallocation recommendations based on saturation and carryover effects.
+Decision-support system estimating channel ROI across 18 territories to maximize advertising efficiency. Delivered as an interactive **Budget Optimization Engine (Streamlit)** with executive reporting and a reproducible MLflow pipeline. Uses Geometric Adstock and Logistic Saturation to isolate true media effects.
 
-### [Personalization: Recommender Systems](https://jf-andrade.github.io/projects/two-tower-recommendation.html)
+- **Stack:** `PyMC-Marketing` `ArviZ` `Streamlit`
 
-Optimizing customer experience through purchase intent prediction. Built to handle fashion retail dynamics, including seasonal catalog rotations and cold-start robustness.
+[![View Code](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JF-Andrade/MMM-Figshare-eCommerce)
 
-- **Outcome:** Significant lift in purchase conversion by delivering high-precision fashion recommendations at scale.
+### Personalization: Recommender Systems
+
+**Impact:** `+389% Lift` in purchase conversion vs. naive baselines.
+
+Large-scale retrieval & ranking funnel serving 1.37M customers. Delivered as a **production-grade Two-Stage pipeline** with MLOps tracking and visual embeddings (ResNet50), built to handle seasonal catalog rotations and cold-start products.
+
+- **Stack:** `TensorFlow Recommenders` `CatBoost` `Optuna`
+
+[![View Code](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JF-Andrade/two-tower_recommendation)
 
 ---
 
@@ -57,18 +65,19 @@ Optimizing customer experience through purchase intent prediction. Built to hand
 - **Master of Science in Economics** — UNICAMP (2023)
 - **Bachelor of Economics** — UFRJ (2017)
 
-**Forthcoming Publication:**
+**Publication:**
 _Andrade, J. F., et al. (2026). Investment share and economic growth in Latin America. **Review of Keynesian Economics**._
 
 ---
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JF-Andrade&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JF-Andrade&layout=compact&hide_border=true&langs_count=8)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jordaofernandes/">LinkedIn</a> • 
-  <a href="https://jf-andrade.github.io/">Full Portfolio</a>
+  <a href="https://jf-andrade.github.io/">Full Portfolio</a> • 
+  <a href="https://github.com/JF-Andrade/JF-Andrade.github.io">Portfolio Repository</a>
 </p>
 
 </div>
