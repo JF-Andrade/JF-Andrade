@@ -14,7 +14,7 @@
 
 ## Technical Expertise
 
-### Core Differentiators
+### Methodological Core
 
 ![Causal Inference](https://img.shields.io/badge/Causal_Inference-4CAF50?style=flat-square)
 ![Bayesian Modeling](https://img.shields.io/badge/Bayesian_Modeling-9C27B0?style=flat-square)
@@ -72,7 +72,7 @@ _Andrade, J. F., et al. (2026). Investment share and economic growth in Latin Am
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JF-Andrade&layout=compact&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JF-Andrade&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=000&rank_icon=github)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jordaofernandes/">LinkedIn</a> • 
