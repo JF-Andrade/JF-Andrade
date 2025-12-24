@@ -72,8 +72,6 @@ _Andrade, J. F., et al. (2026). Investment share and economic growth in Latin Am
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JF-Andrade&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=000&rank_icon=github)
-
 <p align="center">
   <a href="https://www.linkedin.com/in/jordaofernandes/">LinkedIn</a> • 
   <a href="https://jf-andrade.github.io/">Full Portfolio</a> • 
