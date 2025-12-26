@@ -4,8 +4,6 @@
 
 ---
 
-## Bio
-
 > Data Scientist and Master in Economics with over four years of experience leading strategic machine learning and market intelligence projects. I specialize in bridging the gap between advanced **Econometrics** and scalable **Machine Learning** to unlock business value through uncertainty quantification and causal discovery.
 
 <br>
