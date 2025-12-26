@@ -1,5 +1,3 @@
-# Jordão Fernandes de Andrade
-
 **M.Sc. Economics | Machine Learning & Causal Inference**
 
 [LinkedIn](https://www.linkedin.com/in/jordaofernandes/) • [Portfolio](https://jf-andrade.github.io/) • [Email](mailto:jordaoandrade@gmail.com)
