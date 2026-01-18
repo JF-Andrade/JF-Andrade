@@ -8,19 +8,19 @@ Data Scientist and Master in Economics with over four years of experience leadin
 ## Technical Expertise
 
 **Statistical Modeling**  
-![Causal Inference](https://img.shields.io/badge/-Causal_Inference-4a5568?style=for-the-badge) ![Bayesian](https://img.shields.io/badge/-Bayesian-4a5568?style=for-the-badge) ![Econometrics](https://img.shields.io/badge/-Econometrics-4a5568?style=for-the-badge)
+![Causal Inference](https://img.shields.io/badge/-Causal_Inference-2d2d2d?style=rounded-square) ![Bayesian](https://img.shields.io/badge/-Bayesian-2d2d2d?style=rounded-square) ![Econometrics](https://img.shields.io/badge/-Econometrics-2d2d2d?style=rounded-square)
 
 **Machine Learning**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-4a5568?style=for-the-badge&logo=tensorflow&logoColor=FF6F00) ![PyTorch](https://img.shields.io/badge/-PyTorch-4a5568?style=for-the-badge&logo=pytorch&logoColor=EE4C2C) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-4a5568?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-2d2d2d?style=rounded-square&logo=tensorflow&logoColor=FF6F00) ![PyTorch](https://img.shields.io/badge/-PyTorch-2d2d2d?style=rounded-square&logo=pytorch&logoColor=EE4C2C) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-2d2d2d?style=rounded-square&logo=scikitlearn&logoColor=F7931E)
 
 **MLOps & Infrastructure**  
-![MLflow](https://img.shields.io/badge/-MLflow-4a5568?style=for-the-badge&logo=mlflow&logoColor=0194E2) ![Docker](https://img.shields.io/badge/-Docker-4a5568?style=for-the-badge&logo=docker&logoColor=2496ED) ![AWS](https://img.shields.io/badge/-AWS-4a5568?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![MLflow](https://img.shields.io/badge/-MLflow-2d2d2d?style=rounded-square&logo=mlflow&logoColor=0194E2) ![Docker](https://img.shields.io/badge/-Docker-2d2d2d?style=rounded-square&logo=docker&logoColor=2496ED) ![AWS](https://img.shields.io/badge/-AWS-2d2d2d?style=rounded-square&logo=amazon-aws&logoColor=FF9900)
 
 **Methods**  
-![DID](https://img.shields.io/badge/-DID-4a5568?style=for-the-badge) ![RDD](https://img.shields.io/badge/-RDD-4a5568?style=for-the-badge) ![Synthetic Control](https://img.shields.io/badge/-Synthetic_Control-4a5568?style=for-the-badge) ![A/B Testing](https://img.shields.io/badge/-A/B_Testing-4a5568?style=for-the-badge) ![Time Series](https://img.shields.io/badge/-Time_Series-4a5568?style=for-the-badge) ![Hierarchical Modeling](https://img.shields.io/badge/-Hierarchical_Modeling-4a5568?style=for-the-badge)
+![DID](https://img.shields.io/badge/-DID-2d2d2d?style=rounded-square) ![RDD](https://img.shields.io/badge/-RDD-2d2d2d?style=rounded-square) ![Synthetic Control](https://img.shields.io/badge/-Synthetic_Control-2d2d2d?style=rounded-square) ![A/B Testing](https://img.shields.io/badge/-A/B_Testing-2d2d2d?style=rounded-square) ![Time Series](https://img.shields.io/badge/-Time_Series-2d2d2d?style=rounded-square) ![Hierarchical Modeling](https://img.shields.io/badge/-Hierarchical_Modeling-2d2d2d?style=rounded-square)
 
 **Tools**  
-![Python](https://img.shields.io/badge/-Python-4a5568?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4a5568?style=for-the-badge) ![Pandas](https://img.shields.io/badge/-Pandas-4a5568?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-4a5568?style=for-the-badge&logo=numpy&logoColor=white) ![CatBoost](https://img.shields.io/badge/-CatBoost-4a5568?style=for-the-badge) ![Optuna](https://img.shields.io/badge/-Optuna-4a5568?style=for-the-badge) ![PyMC](https://img.shields.io/badge/-PyMC-4a5568?style=for-the-badge) ![Git](https://img.shields.io/badge/-Git-4a5568?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-2d2d2d?style=rounded-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-2d2d2d?style=rounded-square) ![Pandas](https://img.shields.io/badge/-Pandas-2d2d2d?style=rounded-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-2d2d2d?style=rounded-square&logo=numpy&logoColor=white) ![CatBoost](https://img.shields.io/badge/-CatBoost-2d2d2d?style=rounded-square) ![Optuna](https://img.shields.io/badge/-Optuna-2d2d2d?style=rounded-square) ![PyMC](https://img.shields.io/badge/-PyMC-2d2d2d?style=rounded-square) ![Git](https://img.shields.io/badge/-Git-2d2d2d?style=rounded-square&logo=git&logoColor=white)
 
 ---
 
