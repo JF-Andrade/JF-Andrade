@@ -16,8 +16,11 @@ Data Scientist and Master in Economics with over four years of experience leadin
 **MLOps & Infrastructure**  
 ![MLflow](https://img.shields.io/badge/-MLflow-2d2d2d?style=flat-square&logo=mlflow&logoColor=0194E2) ![Docker](https://img.shields.io/badge/-Docker-2d2d2d?style=flat-square&logo=docker&logoColor=2496ED) ![AWS](https://img.shields.io/badge/-AWS-2d2d2d?style=flat-square&logo=amazon-aws&logoColor=FF9900)
 
-**Methods:** DID · RDD · Synthetic Control · A/B Testing · Time Series · Hierarchical Modeling  
-**Tools:** Python · SQL · Pandas · NumPy · CatBoost · Optuna · PyMC · Git · Linux
+**Methods**  
+![DID](https://img.shields.io/badge/-DID-9ca3af?style=for-the-badge) ![RDD](https://img.shields.io/badge/-RDD-9ca3af?style=for-the-badge) ![Synthetic Control](https://img.shields.io/badge/-Synthetic_Control-9ca3af?style=for-the-badge) ![A/B Testing](https://img.shields.io/badge/-A/B_Testing-9ca3af?style=for-the-badge) ![Time Series](https://img.shields.io/badge/-Time_Series-9ca3af?style=for-the-badge) ![Hierarchical Modeling](https://img.shields.io/badge/-Hierarchical_Modeling-9ca3af?style=for-the-badge)
+
+**Tools**  
+![Python](https://img.shields.io/badge/-Python-9ca3af?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-9ca3af?style=for-the-badge) ![Pandas](https://img.shields.io/badge/-Pandas-9ca3af?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-9ca3af?style=for-the-badge&logo=numpy&logoColor=white) ![CatBoost](https://img.shields.io/badge/-CatBoost-9ca3af?style=for-the-badge) ![Optuna](https://img.shields.io/badge/-Optuna-9ca3af?style=for-the-badge) ![PyMC](https://img.shields.io/badge/-PyMC-9ca3af?style=for-the-badge) ![Git](https://img.shields.io/badge/-Git-9ca3af?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
