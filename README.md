@@ -7,17 +7,17 @@ Data Scientist and Master in Economics with over four years of experience leadin
 
 ## Technical Expertise
 
-**Statistical Modeling**
-![Causal Inference](https://img.shields.io/badge/-Causal_Inference-181717?style=for-the-badge) ![Bayesian Modeling](https://img.shields.io/badge/-Bayesian_Modeling-181717?style=for-the-badge) ![Econometrics](https://img.shields.io/badge/-Econometrics-181717?style=for-the-badge)
+**Statistical Modeling**  
+![Causal Inference](https://img.shields.io/badge/-Causal_Inference-2d2d2d?style=flat-square) ![Bayesian](https://img.shields.io/badge/-Bayesian-2d2d2d?style=flat-square) ![Econometrics](https://img.shields.io/badge/-Econometrics-2d2d2d?style=flat-square)
 
-**Machine Learning**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-181717?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-181717?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/-Scikit--learn-181717?style=for-the-badge&logo=scikitlearn&logoColor=white)
+**Machine Learning**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-2d2d2d?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![PyTorch](https://img.shields.io/badge/-PyTorch-2d2d2d?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-2d2d2d?style=flat-square&logo=scikitlearn&logoColor=F7931E)
 
-**MLOps & Infrastructure**
-![MLflow](https://img.shields.io/badge/-MLflow-181717?style=for-the-badge&logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-181717?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-181717?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**MLOps & Infrastructure**  
+![MLflow](https://img.shields.io/badge/-MLflow-2d2d2d?style=flat-square&logo=mlflow&logoColor=0194E2) ![Docker](https://img.shields.io/badge/-Docker-2d2d2d?style=flat-square&logo=docker&logoColor=2496ED) ![AWS](https://img.shields.io/badge/-AWS-2d2d2d?style=flat-square&logo=amazon-aws&logoColor=FF9900)
 
-**Methods:** DID, RDD, Synthetic Control, A/B Testing, Time Series, Hierarchical Modeling  
-**Tools:** Python, SQL, Pandas, NumPy, CatBoost, Optuna, PyMC, Streamlit, Git, Linux
+**Methods:** DID · RDD · Synthetic Control · A/B Testing · Time Series · Hierarchical Modeling  
+**Tools:** Python · SQL · Pandas · NumPy · CatBoost · Optuna · PyMC · Git · Linux
 
 ---
 
