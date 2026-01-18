@@ -7,25 +7,17 @@ Data Scientist and Master in Economics with over four years of experience leadin
 
 ## Technical Expertise
 
-### Methodological Core
+**Statistical Modeling**
+![Causal Inference](https://img.shields.io/badge/-Causal_Inference-181717?style=for-the-badge) ![Bayesian Modeling](https://img.shields.io/badge/-Bayesian_Modeling-181717?style=for-the-badge) ![Econometrics](https://img.shields.io/badge/-Econometrics-181717?style=for-the-badge)
 
-![Causal Inference](https://img.shields.io/badge/Causal_Inference-4CAF50?style=flat-square)
-![Bayesian Modeling](https://img.shields.io/badge/Bayesian_Modeling-9C27B0?style=flat-square)
-![Econometrics](https://img.shields.io/badge/Econometrics-607D8B?style=flat-square)
-![PyMC](https://img.shields.io/badge/PyMC-5C2D91?style=flat-square&logo=pymc&logoColor=white)
-![ArviZ](https://img.shields.io/badge/ArviZ-1E88E5?style=flat-square&logo=arviz&logoColor=white)
+**Machine Learning**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-181717?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-181717?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/-Scikit--learn-181717?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### Engineering Stack
+**MLOps & Infrastructure**
+![MLflow](https://img.shields.io/badge/-MLflow-181717?style=for-the-badge&logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-181717?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-181717?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-**Key Competencies:** Causal Discovery (`DID`, `RDD`, `Synthetic Control`), A/B Testing, Time Series Forecasting, Hierarchical Modeling.
-**Tooling:** `SQL`, `Pandas`, `NumPy`, `Scikit-learn`, `CatBoost`, `Optuna`, `Streamlit`, `Git`, `Linux`.
+**Methods:** DID, RDD, Synthetic Control, A/B Testing, Time Series, Hierarchical Modeling  
+**Tools:** Python, SQL, Pandas, NumPy, CatBoost, Optuna, PyMC, Streamlit, Git, Linux
 
 ---
 
